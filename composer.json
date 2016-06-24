@@ -1,0 +1,19 @@
+{
+    "name": "human/yii2-extend",
+    "description": "A collection of classes extending Yii2",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Tariff Street",
+            "email": "hello@tariffstreet.com",
+            "homepage": "http://www.tariffstreet.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+    },
+    "autoload": {
+        "psr-4": {"human\\yii2-exetend\\": ""}
+    }
+}
