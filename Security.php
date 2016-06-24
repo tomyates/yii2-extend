@@ -1,6 +1,6 @@
 <?php
 
-namespace common\components;
+namespace human/yii2-extend;
 
 class Security extends \yii\base\Security
 {
