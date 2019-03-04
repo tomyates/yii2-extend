@@ -1,6 +1,6 @@
 <?php
 
-namespace human\yii2\extend;
+namespace eartotheground\yii2\extend;
 
 class Security extends \yii\base\Security
 {
